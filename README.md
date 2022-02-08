@@ -104,3 +104,39 @@ The description of this programming assignment was taken from [Computer Sciecne 
 
 &copy; DIMAp/UFRN 2021.
 &copy; IMD/UFRN 2021.
+
+
+# Avaliação
+
+## Ler e validar os argumentos da linha de comando | 2 / 10
+
+- Você ignorou completamente a especificação, embora tenha feito alguma coisa na parte de leitura do arquivo.
+
+## Ler os dados da base de dados e armazená-los em uma classe apropriada | 8 / 10
+
+- Removi uns pontos pela confusão que você fez no método que carrega o arquivo.
+
+## Separar a interface textual das demais classes do sistema concentrando os couts e cins em um único objeto | 0 / 10
+
+- Não feito
+
+## Implementação de uma classe para conter o resultado da requisição do usuário | 5 / 10
+
+- Acho que a ideia era que fosse a classe "Answer"? Acho que a escolha de nomes para os métodos está pra lá de confusa. De qualquer forma
+esta classe armazena o resultado, vou considerar alguma coisa.
+
+## Implementação eficiente através de referencias e algoritmos de busca binária | 2 / 10
+
+- Você implementou busca linear, também não otimizou o uso de containers através de referencias.
+
+## Organização do código em src, include, data | 5 / 5
+
+- ok
+
+## Documentação do código usando o padrão doxygen | 0 / 5
+
+- não documentado
+
+## Implementação e documentação de arquivos de teste | 0 / 10
+
+- não documentado / implementado
